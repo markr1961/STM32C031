@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab5-LLdrivers Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab6-adc-dma-tim Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:C031_Nucleo-blinky Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED-timer-PWM Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EXTI-input Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:C031_Nucleo-blinky\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:C031_Nucleo-blinky\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EXTI-input\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab5-LLdrivers\ Debug/activeLaunchMode=debug

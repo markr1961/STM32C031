@@ -1,0 +1,10 @@
+15:54:51 **** Incremental Build of configuration Debug for project Lab6-adc-dma-tim ****
+make -j4 all 
+arm-none-eabi-size   Lab6-adc-dma-tim.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12528	     20	   1844	  14392	   3838	Lab6-adc-dma-tim.elf
+Finished building: default.size.stdout
+ 
+
+15:54:51 Build Finished. 0 errors, 0 warnings. (took 778ms)
+
