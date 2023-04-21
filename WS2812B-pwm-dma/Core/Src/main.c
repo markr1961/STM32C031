@@ -34,6 +34,8 @@
 #define MAX_LED 8
 #define USE_BRIGHTNESS 1
 #define PI 3.14159265
+#define ONE_THIRD 18  // 1/3 of 60
+#define TWO_THIRD 42  // 2/3 of 60
 
 /* USER CODE END PD */
 
@@ -111,10 +113,10 @@ void WS2812_Send(void) {
     {
       if (color & (1 << i))
       {
-        pwmData[indx] = 60;  // 2/3 of 90
+        pwmData[indx] = TWO_THIRD;
       }
       else
-        pwmData[indx] = 30;  // 1/3 of 90
+        pwmData[indx] = ONE_THIRD;
 
       indx++;
     }
