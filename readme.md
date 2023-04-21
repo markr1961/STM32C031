@@ -1,7 +1,7 @@
 ## Projects using Nucleo-C031C6 based on STM32C031C6T6
 
-Labs 1-3, 5 & 6 are from the Spring 2023 Hands on seminar.
-All projects build using CubeIDE
+Labs are from the Spring 2023 Hands on seminar.
+All projects built using CubeIDE
 
 ### [STM32C031C6T6](https://www.st.com/en/microcontrollers-microprocessors/stm32c031c6.html)
 Cortex-M0+ to 48MHz 
@@ -21,7 +21,7 @@ User button on PC13/WAKE
 Arduino RX/TX: USART1 on PB6/7
 VCP thru ST-link: USART2 on PA2/3
 
-Arduino Pins:
+### Arduino names to STM32 Pins
 A0  PA0
 A1  PA1
 A2  PA4
